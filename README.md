@@ -10,4 +10,4 @@ A simple UI clone of Spotify Landing Page.
 
 It is made using Html and CSS.
 
-<!-- ## Visit the website here - https://reportsystem.onrender.com/ -->
+## Visit the website here - https://skyspotify.netlify.app/
